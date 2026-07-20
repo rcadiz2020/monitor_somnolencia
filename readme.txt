@@ -1,3 +1,9 @@
+WARNUNGS DE GITHUB
+================================================================================
+remote: warning: See https://gh.io/lfs for more information.
+remote: warning: File lbfmodel.yaml is 53.76 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+================================================================================
 MONITOR DE SOMNOLENCIA - README
   Plataforma: Raspberry Pi 3B + RaspiCam (modulo CSI)
   Sistema operativo: Debian 13 (Trixie) / Raspberry Pi OS basado en Debian 13
